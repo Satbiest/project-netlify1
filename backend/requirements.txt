@@ -1,0 +1,3 @@
+-r requirements-core.txt
+sentence-transformers>=3.3,<6
+unstructured[pdf]>=0.18,<1

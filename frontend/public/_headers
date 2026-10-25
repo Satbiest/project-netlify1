@@ -1,0 +1,8 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+  X-Frame-Options: SAMEORIGIN
+/config.js
+  Cache-Control: no-cache
+/static/js/app.js
+  Cache-Control: no-cache
