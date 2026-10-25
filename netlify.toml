@@ -1,0 +1,8 @@
+# The Python application runs on Render. Netlify builds only the static UI.
+[build]
+  base = "frontend"
+  command = "node build.mjs"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
